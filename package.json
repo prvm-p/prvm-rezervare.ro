@@ -1,5 +1,6 @@
 {
-  "name": "PRVM-Private",
+  "homepage": "http://prvm-p.github.io/prvm-rezervare.ro",
+  "name": "prvm-private",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
